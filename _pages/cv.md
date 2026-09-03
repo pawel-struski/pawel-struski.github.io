@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Please please click here for a pdf](/files/cv_pawel_struski_aug2025.pdf)
+[Please click here for a pdf](/files/cv_pawel_struski_aug2025.pdf)
